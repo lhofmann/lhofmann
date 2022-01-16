@@ -25,6 +25,7 @@ You can find my **publications** on my [university website](https://vcg.iwr.uni-
 ![ParaView](https://img.shields.io/static/v1?logo=ParaView&label=&message=ParaView&color=333&style=flat-square&link=)
 ![NumPy](https://img.shields.io/static/v1?logo=NumPy&label=&message=NumPy&color=333&style=flat-square&link=)
 ![SciPy](https://img.shields.io/static/v1?logo=SciPy&label=&message=SciPy&color=333&style=flat-square&link=)
+![TensorFlow](https://img.shields.io/static/v1?logo=TensorFlow&label=&message=TensorFlow&color=333&style=flat-square&link=)
 ![OpenMP](https://img.shields.io/static/v1?logo=OpenMP&label=&message=OpenMP&color=333&style=flat-square&link=)
 ![OpenGL](https://img.shields.io/static/v1?logo=OpenGL&label=&message=OpenGL&color=333&style=flat-square&link=)
 ![Qt5](https://img.shields.io/static/v1?logo=Qt&label=&message=Qt5&color=333&style=flat-square&link=)
