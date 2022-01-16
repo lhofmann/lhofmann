@@ -29,7 +29,7 @@ You can find my **publications** on my [university website](https://vcg.iwr.uni-
 ![OpenMP](https://img.shields.io/static/v1?logo=OpenMP&label=&message=OpenMP&color=333&style=flat-square&link=)
 ![OpenGL](https://img.shields.io/static/v1?logo=OpenGL&label=&message=OpenGL&color=333&style=flat-square&link=)
 ![Qt5](https://img.shields.io/static/v1?logo=Qt&label=&message=Qt5&color=333&style=flat-square&link=)
-![Anaconda](https://img.shields.io/static/v1?logo=Anaconda&label=&message=Anaconda&color=333&style=flat-square&link=)
+![Anaconda](https://img.shields.io/static/v1?logo=Anaconda&label=&message=Conda&color=333&style=flat-square&link=)
 ![Node.js](https://img.shields.io/static/v1?logo=Node.js&label=&message=Node.js&color=333&style=flat-square&link=)
 <br/>
 ![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=005896&style=flat-square)
