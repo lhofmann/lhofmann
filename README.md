@@ -1,9 +1,8 @@
+<h3>Publications</h3>
 
-<h3>Hi, I'm Lutz!</h3>
+I obtained my PhD at the [Visual Computing Group](https://vcg.iwr.uni-heidelberg.de/) at Heidelberg University, where I developed novel feature extraction and visualization techniques for higher-dimensional and time-dependent flows (such as data from computational fluid dynamics).
 
-I'm currently a **PhD candidate** at the [Visual Computing Group](https://vcg.iwr.uni-heidelberg.de/) at Heidelberg University, where I have been developing novel feature extraction and visualization techniques for higher-dimensional and time-dependent flows (such as data from computational fluid dynamics).
-You can find my **publications** on my [university website](https://vcg.iwr.uni-heidelberg.de/people/hofmann/).
-
+[List of Publications](https://vcg.iwr.uni-heidelberg.de/people/hofmann/) • [PhD Thesis](http://dx.doi.org/10.11588/heidok.00032028)
 
 <h3>Tech that I have used before</h3>
 
@@ -44,9 +43,5 @@ You can find my **publications** on my [university website](https://vcg.iwr.uni-
 
 
 <h3>Contact me</h3>
-:e-mail: lutz (at) lutzhofmann.dev <br/>
+:e-mail: lutz (at) lutzhofmann.dev • 
 :link: <a href="https://www.linkedin.com/in/lutz-hofmann">linkedin.com/in/lutz-hofmann</a>
-
-<hr />
-<a href="#"><img align="top" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhofmann&langs_count=8&layout=compact&theme=tokyonight" height="180px" /></a>&nbsp;
-<a href="#"><img align="top" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=lhofmann&show_icons=true&theme=tokyonight" height="180px" /></a>
